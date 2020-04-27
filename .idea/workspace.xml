@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="609e5938-0a23-4097-9d76-7b3a2459b1e3" name="Default Changelist" comment="" />
+    <list default="true" id="609e5938-0a23-4097-9d76-7b3a2459b1e3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +34,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/COVID-19" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1a7Z2AKvCeqAZc0hShbaBdzhhIu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -53,7 +56,7 @@
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager" selected="Kotlin.TestKt">
     <configuration name="CovidKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -124,7 +127,7 @@
       <workItem from="1587977156323" duration="23000" />
       <workItem from="1587978141959" duration="58000" />
       <workItem from="1587978803935" duration="390000" />
-      <workItem from="1587996937322" duration="1755000" />
+      <workItem from="1587996937322" duration="2245000" />
     </task>
     <servers />
   </component>
@@ -132,6 +135,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="232" y="150" key="#Notifications" timestamp="1587999699618">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="150" key="#Notifications/0.0.1280.984@0.0.1280.984" timestamp="1587999699618" />
     <state x="394" y="399" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586094281454">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -152,10 +159,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state width="1237" height="262" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1587979193277" />
-    <state x="35" y="67" key="SettingsEditor" timestamp="1587997805076">
+    <state x="35" y="67" key="SettingsEditor" timestamp="1587999692656">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="35" y="67" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1587997805076" />
+    <state x="35" y="67" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1587999692656" />
     <state x="14" y="187" key="new project wizard" timestamp="1586172241286">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
