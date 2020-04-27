@@ -1,0 +1,5 @@
+name: Covid-19
+author: D_xiaox
+version: 1.0.0
+main: me.xiaox.covid.Covid
+info: 疫情查询
