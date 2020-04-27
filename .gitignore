@@ -1,1 +1,6 @@
-Java.gitignore
+/.idea
+/COVID-19
+/target
+/src/test
+/COVID-19.iml
+/dependency-reduced-pom.xml
